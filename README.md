@@ -7,7 +7,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a full-stack developer and Mathematics & Computer Science student at Western Washington University. Currently building awesome things at **[luris.ai](https://luris.ai)**. I like coffee, math and code
+I'm a full-stack developer and Mathematics & Computer Science student at Western Washington University. Currently building awesome things at **[luris.ai](https://luris.ai)**.
 
 
 ## 🛠️ Tech Stack
